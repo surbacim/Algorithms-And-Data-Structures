@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4WE1aIq8JYqJ/K4tfoftLZJfWNlpipJ8mfwfKjhycl/DIkcbKrKyCyzMzPs4o88+lLePhCFIaIDW4eKfOZdTqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Юрий\\source\\repos\\AISD\\AISD\\AISD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Юрий\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

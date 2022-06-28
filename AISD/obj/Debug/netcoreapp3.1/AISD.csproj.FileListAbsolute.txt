@@ -1,0 +1,4 @@
+C:\Users\Юрий\source\repos\AISD\AISD\obj\Debug\netcoreapp3.1\AISD.csprojAssemblyReference.cache
+C:\Users\Юрий\source\repos\AISD\AISD\obj\Debug\netcoreapp3.1\AISD.AssemblyInfoInputs.cache
+C:\Users\Юрий\source\repos\AISD\AISD\obj\Debug\netcoreapp3.1\AISD.AssemblyInfo.cs
+C:\Users\Юрий\source\repos\AISD\AISD\obj\Debug\netcoreapp3.1\AISD.csproj.CoreCompileInputs.cache
